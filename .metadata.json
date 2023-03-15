@@ -1,5 +1,9 @@
 [
   {
+    "package": "glassoFast",
+    "oncran": true
+  },
+  {
     "package": "mvMORPH",
     "oncran": true
   }
