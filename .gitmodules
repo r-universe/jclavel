@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "glassoFast"]
 	path = glassoFast
 	url = https://github.com/jclavel/glassofast
-	shallow = true
-	registered = true
 [submodule "mvMORPH"]
 	path = mvMORPH
 	url = https://github.com/jclavel/mvmorph
-	shallow = true
-	registered = true
